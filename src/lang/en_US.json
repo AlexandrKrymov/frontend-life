@@ -1,0 +1,51 @@
+{
+  "menu": {
+    "home": "Home",
+    "testimonials": "Testimonials",
+    "portfolio": "Portfolio",
+    "contacts": "Contact with me"
+  },
+  "btns": {
+    "callback": "Callback",
+    "testimonial": "Leave a review",
+    "close": "Close",
+    "submit": "Submit",
+    "all": "All"
+  },
+  "forms": {
+    "main": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "review": "Review",
+      "comment": "Comment",
+      "organization": "Organisation / Web site",
+      "score": "Job evaluation",
+      "privacy": ""
+    },
+    "callback": {
+      "title" : "Callback",
+      "description": "If you have any questions, please fill out the form so that I can contact you",
+      "success": {
+        "title": "Thank you!",
+        "text": "Your request has been successfully sent."
+      }
+    },
+    "review": {
+      "title": "Leave a review",
+      "success": {
+        "title": "Thank you!",
+        "text": "Your review will be published soon"
+      }
+    },
+    "errors": {
+      "required": "This field is required",
+      "email": "The value does not match the format of the Email",
+      "phone": "Valid characters: 0-9 () -"
+    }
+  },
+  "other": {
+    "success": "Complited",
+    "year": "Year"
+  }
+}
